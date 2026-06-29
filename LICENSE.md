@@ -1,4 +1,4 @@
-# 
+# Inteligente Ollama predefinições. Com computação de borda e treinamento de modelos personalizados — otimizado para máximo desempenho e eficiência.
 
 
 
